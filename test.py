@@ -1,1 +1,1 @@
-print("Successfully Deployed the Jenkins Email Notification Project"
+print("Successfully Deployed the Jenkins Email Notification Project")
